@@ -1,0 +1,3 @@
+Complete next step of the sequence: A B C D
+
+Complete next step of the sequence: “A B” “C D”
