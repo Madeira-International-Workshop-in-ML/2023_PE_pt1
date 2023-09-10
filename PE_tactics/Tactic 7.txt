@@ -1,6 +1,0 @@
-# Simple prompt #
-The water is 5 degrees. is it good?
-
-# Engineered Prompt #
-Water at 20 degrees is good, more than 25 is to hot and less than 18 is cold. Respond to any question directly without adding tokens.
-The water is 5 degrees. is it good?

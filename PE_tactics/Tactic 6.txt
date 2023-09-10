@@ -1,7 +1,0 @@
-# Simple prompt #
-Write an article using biology language about ML
-
-# Engineered Prompt #
-Act as an expert researcher in the field of biology. You also have expert level knowledge about Machine Learning. Starting now, every sentence I introduce to you, you will rewrite, using specific language of the biology field, like specific names or terms.
-
-“ML is great to look for patterns inside dna and the stuff inside the dna and then correlate that with connected diseases”

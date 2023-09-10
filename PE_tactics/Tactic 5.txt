@@ -1,6 +1,0 @@
-# Simple prompt #
-I brought 3 cookies to the MML23. I ate one after eating a cookie for lunch. How many cookies I have left?
-
-# Engineered Prompt #
-Identify all the instances where a cookie was eaten. Count those instances. Subtract the counted instances from the initial quantity. Write only the result without any other token.
-I brought 3 cookies to the MML23. I ate one cookie after eating a cookie for lunch. How many cookies I have?

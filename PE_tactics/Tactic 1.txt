@@ -1,5 +1,0 @@
-# Simple prompt #
-Complete next step of the sequence: A B C D
-
-# Engineered Prompt #
-Complete next step of the sequence: “A B” “C D”
