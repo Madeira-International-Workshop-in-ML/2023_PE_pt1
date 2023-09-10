@@ -11,6 +11,7 @@ Prompt engineering is a critical facet of working with advanced language models 
 - A TXT file for each prompt tactic;
 - The database link used on "Code interpreter" example
 - A support TXT file with the long texts to use during the exercises.
+- A PDF file with the presentation
 
 ### Feedback & Collaboration
 Your feedback is invaluable. If you discover any issues, have suggestions for improvements, or want to share a breakthrough you've had with a particular exercise, please don't hesitate to raise an issue or pull request. Collaboration is the bedrock of the Machine Learning community.
