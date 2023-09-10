@@ -13,11 +13,7 @@ In 1950, Alan Turing posed the question “Can machines think?” [i]. As the co
 
 “Every aspect of learning or any other feature of intelligence can in principle be so precisely described that a machine can be made to simulate it.”
 
-The field of AI research was officially born in 1956 at the Dartmouth Conference which introduced the term “artificial intelligence” to unify the various research efforts in cybernetics, automata theory, and complex information processing to give machines the ability to “think”. A small group of prominent researchers including John McCarthy, Marvin Minsky, Claude Shannon and Norbert Wiener proposed that “every aspect of learning or any other feature of intelligence can be so precisely described that a machine can be made to simulate it.” This provided a clear pragmatic direction for subsequent AI research efforts.
-
-
-FIGURE 2: THE FIRST IMPLEMENTATION OF THE PERCEPTRON IN THE MARK I PERCEPTRON MACHINE THAT COULD RECOGNISE IMAGES WITH A 20 X 20 PIXEL CAMERA.
- 
+The field of AI research was officially born in 1956 at the Dartmouth Conference which introduced the term “artificial intelligence” to unify the various research efforts in cybernetics, automata theory, and complex information processing to give machines the ability to “think”. A small group of prominent researchers including John McCarthy, Marvin Minsky, Claude Shannon and Norbert Wiener proposed that “every aspect of learning or any other feature of intelligence can be so precisely described that a machine can be made to simulate it.” This provided a clear pragmatic direction for subsequent AI research efforts. 
 
 In 1958, Frank Rosenplatt created the perceptron learning algorithm, the simplest type of neural network with only one layer of neurons connecting inputs to outputs. The New York Times sensationally reported the perceptron to be “the embryo of an electronic computer that the Navy expects will be able to walk, talk, see, write, reproduce itself and be conscious of its existence.” However, it was proven that the single layer perceptron could only recognise linearly separable patterns, but not more complex types such as the XOR (exclusive OR) function.[i]  The field of neural networks stagnated for a decade, until it was realised that multi-layer perceptrons, with sufficient computing power and data, were a very effective way of modelling more complex non-linear functions. This is the principle behind current research in deep learning with many complex layers of neurons, such as those used by Google DeepMind’s AlphaGo to defeat Lee Sedol at the game of Go
 
@@ -47,6 +43,5 @@ Can a machine be original or creative?
 Can a machine be benevolent or hostile?
 Can a machine have a soul?
  
-
 These ethical considerations will have to be developed in parallel with the technological capability of emerging AI models. For a considered view of how AI and machine learning will change society, I highly recommend the UK Royal Society 2017 Report “Machine Learning: the power and promise of computers that learn by example”
 "
